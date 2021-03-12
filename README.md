@@ -10,3 +10,5 @@ The dataset contains these handwritten numbers. Using k-means, I found the clust
 
 After constructing the SC scores, I plotted it as a function of K on the x-axis.
 
+![Alt text](https://github.com/devanshi-pratiher/numbers_k-means/blob/main/myplot1?raw=true "Optional Title")
+
