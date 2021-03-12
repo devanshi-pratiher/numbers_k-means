@@ -2,4 +2,4 @@
 # Finding Numbers from Datasets
 
 #Description
-![Alt text](/r/Users/devanshi/Desktop/k-means.png?raw=true "Optional Title")
+![Alt text](https://github.com/devanshi-pratiher/numbers_k-means/blob/main/k-means.png?raw=true "Optional Title")
